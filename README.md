@@ -1,4 +1,5 @@
 # Cardiovascular-Disease-Prediction.
 
 Baseline Model Training : XGBoost
-Other models : Linear Regression , Lightgbm. Random Forest
+
+Other models : Linear Regression , Lightgbm, Random Forest
